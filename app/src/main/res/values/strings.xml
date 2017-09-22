@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LAB_1</string>
+
+    <string name="login">Login</string>
+        <string name="create_account">Create_Account</string>
+            <string name="Register">Register</string>
+                <string name="username">Username</string>
+                    <string name="password">Password</string>
+                <string name="firstname">Firstname</string>
+            <string name="lastname">Lastname</string>
+        <string name="signup_prompt">Do you have an account?</string>
+    <string name="Email">Email</string><string name="Home">Home</string>
+</resources>

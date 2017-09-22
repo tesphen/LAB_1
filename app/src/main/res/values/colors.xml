@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFD700</color>
+    <color name="colorPrimaryDark">#FF8C00</color>
+    <color name="colorAccent">#FF4033</color>
+
+
+
+    <color name="loginButton">#000000</color>
+    <color name="signupButton">#00ff00</color>
+    <color name="createButton">#C0C0C0</color>
+</resources>

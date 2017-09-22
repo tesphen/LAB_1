@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/LAB_1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/AndroidStudioProjects/LAB_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ca3ab7f4edc1d78348af3b7b49ef2142346c4628/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/LAB_1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4242b9818463f87c3450cb17d082270e69422c">
+        <dex dex="/root/AndroidStudioProjects/LAB_1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fc06e22d00bd2d54929d612b47716db806984f9c/classes.dex" />
+    </item>
+
+</items>
